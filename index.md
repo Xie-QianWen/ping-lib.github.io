@@ -1,4 +1,4 @@
-## Welcome to Ping Lab
+## Welcome to qianwen's Blog
 
 You can use the [editor on GitHub](https://github.com/Xie-QianWen/ping-lib.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
